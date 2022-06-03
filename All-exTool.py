@@ -61,7 +61,7 @@ print('\n')
     else:
         endMessage()
 
-print("\n\n${WHITE}[1] ${RED} Social URL Hack (BruteForce)\n ${WHITE}[2] ${GREEN} eLys BotNet ${WHITE}(${RED}being created${WHITE})\n ${WHITE}[3] ${BLEU}Social Bot\n ${WHITE}[4] ${CYAN} Ip Track\n ${WHITE}[5] ${ORANGE} Impulse\n ${WHITE}[6] ${MAGENTA} DDOS\n ${WHITE}[7] ${GREEN} Update Scripte")
+print("\n\n${WHITE}[1] ${RED} Social URL Hack (BruteForce)\n ${WHITE}[2] ${GREEN} eLys BotNet ${WHITE}(${RED}being created${WHITE})\n ${WHITE}[3] ${BLEU}Social Bot\n ${WHITE}[4] ${CYAN} Ip Track\n ${WHITE}[5] ${ORANGE} Impulse\n ${WHITE}[6] ${MAGENTA} DDOS\n ${WHITE}[7] ${GREEN} Thanks too")
 choice = input('\n Choice')
 
 if Choice == '1':
@@ -316,6 +316,10 @@ else:
       exit()
 
 if Choice == '7':
+      print("""
+      Creator : AeX03
+      Maintainer :
+      """)
 
 else:
       exit()
