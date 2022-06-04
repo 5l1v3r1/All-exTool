@@ -47,8 +47,8 @@ _/    _/      _/       _/                     _/_/_/     _/    _/      _/       
 
 print('\n')
   # Agreement Message #
-  warningchoice = input(
-      "                    Will you use this responsibly (\033[94;1my\033[93;1m/\033[91mn\033[93;1m): ")
+  warningchoice = input("                   
+                        Will you use this responsibly (\033[94;1my\033[93;1m/\033[91mn\033[93;1m): ")
 
    if warningchoice == 'y':
         pass
