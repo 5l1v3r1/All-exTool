@@ -1,6 +1,6 @@
 #!/bin/bash
 
-print ("""                                                                                                                                                                
+echo " ${GREEN}                                                                                                                                                                
                                                                                                                                                                     
                AAA               llllllllllllll                                                        TTTTTTTTTTTTTTTTTTTTTTT                              lllllll 
               A:::A              l:::::ll:::::l                                                        T:::::::::::::::::::::T                              l:::::l 
@@ -29,7 +29,11 @@ AAAAAAA                   AAAAAAAlllllllllllllll                     eeeeeeeeeee
                                                                         ██║   ██║██████╔╝██║  ██║███████║   ██║   ██║██╔██╗ ██║██║  ███╗
                                                                         ██║   ██║██╔═══╝ ██║  ██║██╔══██║   ██║   ██║██║╚██╗██║██║   ██║
                                                                         ╚██████╔╝██║     ██████╔╝██║  ██║   ██║   ██║██║ ╚████║╚██████╔╝
-                                                                         ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ """);
+                                                                         ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ";
+                                                                
+echo "The script will start in 10 seconds."
+
+sleep 10s                                                                
 
 clear
 
