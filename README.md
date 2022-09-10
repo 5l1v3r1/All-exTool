@@ -4,8 +4,10 @@
 # All-exTool
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/All-exTool)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/All-exTool)
-[![Coverage Status](https://coveralls.io/repos/github.com/AeX03/eLys/badge.svg)](https://coveralls.io/github.com/AeX03/All-exTool)
-<img alt="Discord" src="https://img.shields.io/discord/709150520446550097"/>
+[![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
+<br>
+[![eLys](https://img.shields.io/badge/Site-eLys-pink.svg)](https://eLysiane.eu/)
+[![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 
 ## Tested on
 - [x] Kali Linux 2022
